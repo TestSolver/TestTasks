@@ -1,0 +1,5 @@
+1. A. W jakim celu używa się klas abstrakcyjnych, a w jakim interfejsów?
+Jeśli potrzebujemy zachowania-musisz użyć interfejsu. Jeśli chodzi o obiekt koncepcyjny-musimy użyć klasy abstrakcyjnej
+
+1.B. Czym różni się tablica od listy liniowej?
+ArrayList to lista oparta na tablicy. LinkedList to lista połączona na podstawie elementów i relacji między nimi
